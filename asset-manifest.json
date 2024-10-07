@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-neve/static/css/main.bc441d0b.css",
-    "main.js": "/repository-neve/static/js/main.8aab0345.js",
-    "static/js/453.40412f92.chunk.js": "/repository-neve/static/js/453.40412f92.chunk.js",
-    "index.html": "/repository-neve/index.html",
-    "main.bc441d0b.css.map": "/repository-neve/static/css/main.bc441d0b.css.map",
-    "main.8aab0345.js.map": "/repository-neve/static/js/main.8aab0345.js.map",
-    "453.40412f92.chunk.js.map": "/repository-neve/static/js/453.40412f92.chunk.js.map"
+    "main.css": "/am-ba_react/static/css/main.bc441d0b.css",
+    "main.js": "/am-ba_react/static/js/main.5ffc7bcf.js",
+    "static/js/453.40412f92.chunk.js": "/am-ba_react/static/js/453.40412f92.chunk.js",
+    "index.html": "/am-ba_react/index.html",
+    "main.bc441d0b.css.map": "/am-ba_react/static/css/main.bc441d0b.css.map",
+    "main.5ffc7bcf.js.map": "/am-ba_react/static/js/main.5ffc7bcf.js.map",
+    "453.40412f92.chunk.js.map": "/am-ba_react/static/js/453.40412f92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc441d0b.css",
-    "static/js/main.8aab0345.js"
+    "static/js/main.5ffc7bcf.js"
   ]
 }
